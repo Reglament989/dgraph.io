@@ -1,0 +1,11 @@
+name: dgraph.io
+version: 1.0.0
+description: >-
+  Dgraph dart grpc client.
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+dependencies:
+  grpc: ^3.0.2
+  protobuf: ^2.0.1
+dev_dependencies:
+  test: ^1.5.1
